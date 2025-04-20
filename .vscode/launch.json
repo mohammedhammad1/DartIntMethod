@@ -1,0 +1,10 @@
+0.2.0",
+    "configurations": [
+
+        {
+            "nae": "Dart & Flutter",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
